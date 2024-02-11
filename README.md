@@ -1,0 +1,2 @@
+# Python
+Pythonまとめ用リポジトリ
